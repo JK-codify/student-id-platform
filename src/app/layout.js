@@ -1,6 +1,6 @@
 import Layout from '../../components/Layout'
-//import "./globals.css";
-import '../../styles/globals.css'
+import './globals.css'
+import '../../styles/dashboard.css'
 
 
 //const geistSans = Geist({

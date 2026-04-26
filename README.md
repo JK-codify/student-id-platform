@@ -2,13 +2,13 @@
 
 A comprehensive web application for generating and managing student identification cards. The platform enables administrators to capture student information, import bulk data, generate ID cards, and organize student batches efficiently.
 
-## 📋 Overview
+##  Overview
 
 **Student ID Platform** is a modern, full-stack application built with **Next.js** that streamlines the student ID card creation and management workflow. The system supports individual data entry, bulk Excel imports, ID card preview/generation, and batch management with filtering capabilities.
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
 - **User Authentication**: Secure login system for authorized access
 - **Student Data Management**: Add and manage student information through intuitive forms
@@ -20,7 +20,7 @@ A comprehensive web application for generating and managing student identificati
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 student-id-platform/
@@ -40,9 +40,9 @@ student-id-platform/
 
 ---
 
-## 👥 Team Structure & Responsibilities
+##  Team Structure & Responsibilities
 
-### Mazarine – 🎨 UI/UX Designer (Figma Lead)
+### Mazarine –  UI/UX Designer (Figma Lead)
 **Role**: Design System & Screens
 
 - Design all 6 application screens (Login, Dashboard, Student Form, Excel Import, ID Card Preview, Batch Management)
@@ -50,7 +50,7 @@ student-id-platform/
 - Create design guidelines for developers
 - Deliver complete Figma file with components and specifications
 
-### Mathis – 🧱 Project Setup & Navigation Developer
+### Jason – Project Setup & Navigation Developer
 **Role**: Foundation & Routing
 
 - Initialize and configure Next.js project
@@ -60,7 +60,7 @@ student-id-platform/
 - Build login page (UI + basic authentication logic)
 - **Deliverable**: Working app structure with navigable pages
 
-### Jason – 📊 Dashboard & Batch Management Developer
+### Jason –  Dashboard & Batch Management Developer
 **Role**: Data Display & Organization
 
 - Build dashboard interface with key statistics
@@ -69,7 +69,7 @@ student-id-platform/
 - Create student/batch list display components
 - **Deliverable**: Functional dashboard with batch filtering system
 
-### Yann – 🧾 Forms & Data Input Developer
+### Yann –  Forms & Data Input Developer
 **Role**: User Input Features
 
 - Implement student data entry form with validation
@@ -78,7 +78,7 @@ student-id-platform/
 - Create clean, intuitive input handling
 - **Deliverable**: Fully working forms with error handling
 
-### Bryan – 🪪 ID Card & Final Integration Developer
+### Bryan –  ID Card & Final Integration Developer
 **Role**: Core Feature & Integration
 
 - Build ID card preview component
@@ -90,7 +90,7 @@ student-id-platform/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18.17 or later
@@ -119,7 +119,7 @@ student-id-platform/
 
 ---
 
-## 📦 Technology Stack
+##  Technology Stack
 
 - **Framework**: [Next.js 16.2.4](https://nextjs.org/) - React framework for production
 - **UI Library**: [React 19.2.4](https://react.dev/) - JavaScript library for building user interfaces
@@ -131,7 +131,7 @@ student-id-platform/
 
 ---
 
-## 🛠️ Available Scripts
+## Available Scripts
 
 ```bash
 # Development server (with hot reload)
@@ -149,7 +149,7 @@ npm run lint
 
 ---
 
-## 📋 Development Workflow
+## Development Workflow
 
 ### Feature Development
 1. Create a feature branch from `main`
@@ -167,7 +167,7 @@ npm run lint
 
 ---
 
-## 🎨 Design Guidelines
+##  Design Guidelines
 
 Please refer to the **Figma design file** for:
 - Color palette and color usage
@@ -180,13 +180,13 @@ Design guidelines will be provided separately by the design team.
 
 ---
 
-## 🔐 Authentication
+##  Authentication
 
 The platform uses a secure login system. Default credentials and authentication setup will be provided in the project documentation.
 
 ---
 
-## 📝 Documentation
+##  Documentation
 
 - **Design Specifications**: See Figma project (shared by Mazarine)
 - **API Documentation**: Coming soon
@@ -195,7 +195,7 @@ The platform uses a secure login system. Default credentials and authentication 
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Port Already in Use
 If port 3000 is already in use:
@@ -212,11 +212,11 @@ npm install
 
 ---
 
-## 📈 Project Status
+## Project Status
 
-- ✅ Project initialized with Next.js
-- 🔄 Currently in active development
-- 📅 Target completion: [Add your target date]
+-  Project initialized with Next.js
+-  Currently in active development
+-  Target completion: [Add your target date]
 
 ---
 
@@ -228,17 +228,17 @@ For questions, issues, or suggestions:
 
 ---
 
-## 📄 License
+## License
 
 This project is private and maintained by the development team.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 Built by a collaborative team:
 - **Mazarine** (Design)
-- **Mathis** (Project Setup)
+- **Jason** (Project Setup)
 - **Jason** (Dashboard)
 - **Yann** (Forms)
 - **Bryan** (ID Cards & Integration)

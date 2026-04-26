@@ -230,7 +230,7 @@ For questions, issues, or suggestions:
 
 ## License
 
-This project is private and maintained by the development team.
+This project is public and maintained by the development team.
 
 ---
 
